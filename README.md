@@ -1,4 +1,4 @@
-## Hi, I'm Andre
+## Hi, I'm Andre 🌟
 
 🧠 Certified Web and Mobile App Developer<br/>
 🎨 Graphic Designer<br/>
