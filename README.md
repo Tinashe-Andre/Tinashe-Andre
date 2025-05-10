@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Tinashe-Andre&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinashe-Andre&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Tinashe Andre Makwiramiti](https://www.facebook.com/share/1EkywtCwaT/?mibextid=wwXIfr)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tdre.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinashe-makwiramiti-943939307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tdre.dev) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1EkywtCwaT/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tdre.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinashe-makwiramiti-943939307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tdre.dev) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tinashe-Andre&icon=0&color=0)](https://visitcount.itsvg.in)
